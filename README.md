@@ -10,6 +10,7 @@ Here is the link to the [Original Project Page!](http://www.cs.wm.edu/semeru/Imp
 Here is the link to the [Video!](http://www.cs.wm.edu/semeru/ImpactMiner/) showing the demonstration of the tool.
 
 In this repository, for ImpactMiner you will find:
+
  :white_check_mark: [Source code for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/ImpactMiner-SRC.zip)
  :white_check_mark: [Executable for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/edu.wm.ImpactMiner_0.6.0.jar)
  
