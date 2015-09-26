@@ -12,6 +12,7 @@ Here is the link to the [Video!](http://www.cs.wm.edu/semeru/ImpactMiner/) showi
 In this repository, for ImpactMiner you will find:
 
  :white_check_mark: [Source code for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/ImpactMiner-SRC.zip)
+ 
  :white_check_mark: [Executable for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/edu.wm.ImpactMiner_0.6.0.jar)
  
  This tool was certified as unworkable as it wasn't functioning as per the guidelines in the paper.
