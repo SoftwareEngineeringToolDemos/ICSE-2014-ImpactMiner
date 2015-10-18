@@ -11,7 +11,7 @@ Here are some links to the original project:
 
 
  * [Original Project Page](http://www.cs.wm.edu/semeru/ImpactMiner/)
- * [Video](http://www.cs.wm.edu/semeru/ImpactMiner/) showing the demonstration of the tool.
+ * [Video showing the project demonstration](http://www.cs.wm.edu/semeru/ImpactMiner/) 
 
 In this repository, for ImpactMiner you will find:
 
