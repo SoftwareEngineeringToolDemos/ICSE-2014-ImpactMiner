@@ -4,7 +4,7 @@ This repository contains information related to the tool ImpactMiner. ImpactMine
 
 The tool was originally presented in this [Paper](http://www.cs.wm.edu/~denys/pubs/ImpactMiner_ICSE'14_CRC.pdf) at International Conference on Software Engineering, 2014.
 
-Please note that this repository is not the original repository for this tool. This repository is merely for hosting the tool on GitHub and [I](https://github.com/smallen3) am not the original author of this tool.
+Please note that this repository _is not_ the original repository for this tool. This repository is merely for hosting the tool on GitHub and [I](https://github.com/smallen3) am not the original author of this tool.
 
 Here is the link to the [Original Project Page](http://www.cs.wm.edu/semeru/ImpactMiner/)
 Here is the link to the [Video](http://www.cs.wm.edu/semeru/ImpactMiner/) showing the demonstration of the tool.
