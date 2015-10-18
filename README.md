@@ -18,3 +18,6 @@ In this repository, for ImpactMiner you will find:
  This tool was certified as unworkable as it wasn't functioning as per the guidelines in the paper.
 
 This repository was constructed by [Sai Sindhur Malleni](https://github.com/smallen3) of Team New Hanover under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+Thanks to the authors Dit, B., Wagner, M., Wen, S., Wang, W., Linares-Vásquez, M., Poshyvanyk, D., Kagdi, H.
+for making the tool available.
