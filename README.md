@@ -1,6 +1,6 @@
 # ICSE-2014-ImpactMiner
 
-This repository contains information related to the tool ImpactMiner . ImpactMiner is a tool developed by SEMERU at The College of William and Mary for easy change imapct analysis.
+This repository contains information related to the tool ImpactMiner. ImpactMiner is a tool developed by SEMERU at The College of William and Mary for easy change imapct analysis.
 
 The tool was originally presented in this [Paper](http://www.cs.wm.edu/~denys/pubs/ImpactMiner_ICSE'14_CRC.pdf) at International Conference on Software Engineering, 2014.
 
