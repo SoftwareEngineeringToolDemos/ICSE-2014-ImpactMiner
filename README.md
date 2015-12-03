@@ -17,6 +17,8 @@ In this repository, for ImpactMiner you will find:
  
  :white_check_mark: [Executable for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/edu.wm.ImpactMiner_0.6.0.jar)
  
+ :white_check_mark: [Original Page for Download](http://www.cs.wm.edu/semeru/ImpactMiner/)
+ 
  This tool was certified as unworkable as it wasn't functioning as per the guidelines in the paper.
 
 This repository was constructed by [Sai Sindhur Malleni](https://github.com/smallen3) of Team New Hanover under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
