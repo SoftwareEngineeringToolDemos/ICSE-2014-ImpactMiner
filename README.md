@@ -5,9 +5,8 @@ This repository contains information related to the tool ImpactMiner presented i
 The tool was originally presented in this [Paper](http://www.cs.wm.edu/~denys/pubs/ImpactMiner_ICSE'14_CRC.pdf) at the International Conference on Software Engineering, 2014.
 
 Please note that this repository *is not* the original repository for this tool. 
-*  [Video](http://www.cs.wm.edu/semeru/ImpactMiner/) showing the demonstration of the tool.
+* [Video](http://www.cs.wm.edu/semeru/ImpactMiner/) showing the demonstration of the tool.
 * Here is the link to the [Original Project Page](http://www.cs.wm.edu/semeru/ImpactMiner/)
-* :white_check_mark: [Source code for ImpactMiner](http://www.cs.wm.edu/semeru/ImpactMiner/ImpactMiner-SRC.zip)
 
 In this repository, for ImpactMiner you will find:
 * :white_check_mark: [Source code](Source)
